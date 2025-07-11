@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo apt-get install vlc -y
+apt install vlc -y
