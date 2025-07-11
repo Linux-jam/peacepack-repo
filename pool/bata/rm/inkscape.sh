@@ -1,2 +1,2 @@
 #!/bin/bash
-apt purge inkscape
+apt purge inkscape -y
